@@ -3,7 +3,7 @@
 
 Built around an ESP32-C3, e-paper display and NFC.
 
-
+<img width="500" height="281" alt="ezgif-6ae57bc187c29872" src="https://github.com/user-attachments/assets/5578b29f-1756-45bf-ab64-3caf5588e36c" />
 
 ## 🚀 Follow Development
 
@@ -29,9 +29,11 @@ Official ISO7816 smartcards are specified at 0.76mm thickness, but many real-wor
 
 ## First & Current Prototype Status
 
-As you can see, this one is a literal 'ugly' prototype, but it serves as a proof of concept to find out what the real challenges are beyond component hieght.
+As you can see, this one is a literal 'ugly' prototype, but it serves as a proof of concept to find out what the real challenges are beyond component hieght. Although the first handmade one feels like it would break just by breathing wrong, it gave me good insight into theory in CAD vs real physical stackability because of unplanned things like connections, bending buffer, bonding material, real world tolerances and so on. But in a technicaly perspective, it works very well!
 
-I was too impatient for a fab to produce a flexPCB, just to receive it after weeks stuck in customs and finding out it doesn't work because of a simple issue that can't be fixed afterwards, so I went with building my own flexPCB, probably the most DIY method for this kind of thing. I already progressed to professionally manufactured prototypes, but for anyone interested in the process of the custom one: 
+https://github.com/user-attachments/assets/bdd6f6aa-f484-476f-aeac-7d2e1bcbe0bd
+
+I was too impatient for a fab to produce a flexPCB, just to receive it after weeks stuck in customs and finding out it doesn't work because of a stupid mistake, so I went with building my own flexPCB, probably the most DIY method for this kind of thing. I already progressed to professionally manufactured prototypes, but for anyone interested in the process of the custom one: 
 
 <details>
 <summary>Here is a deeper dive into the journey of etching my own flexPCB</summary>
@@ -85,9 +87,11 @@ I knew what I was doing, turning this thing to the side and seeing it almost dis
 
 The actual protype is already finished and I will post updates as I'm testing it mostly for durability in daily use and battery life. You can find schematics, layout and some other resources in this repo, but it's still work in progress.
 
+<img width="1089" height="686" alt="Screenshot 2026-05-08 at 17 30 16" src="https://github.com/user-attachments/assets/4ae7b11e-6bba-42bc-8dc7-9ad5e479e9d0" />
+
 I am testing the best and solid ways to implement some features, including:
 
-- a caseless, minimal USB-C port (Main port is magnetic pogo pins)
+- a caseless, minimal USB-C port (Main port is magnetic pins)
 - micro SD card slot
 - different touch button setups
 - getting it to tolerate more mechanical stress and bending. It is already good but it's always better to go beyond bare minimum.
