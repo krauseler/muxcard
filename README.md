@@ -3,6 +3,18 @@
 
 Built around an ESP32-C3, e-paper display and NFC.
 
+The video below shows a little visual demo on just a few things that could be possible.
+
+https://github.com/user-attachments/assets/e4d82f54-b393-4f6b-ad7e-3dc9b4335611
+
+So many things could be possible with this, including:
+
+- Minimalist wallet for QR codes, NFC keys, tickets, boarding passes etc.
+- Pentesting & Ethical Hacking similar to Flipper Zero
+- Smart-home dashboard & control
+- Offline password, 2FA, crypto wallet
+- A business card that has a **100% guarantee** to get remembered
+
 <img width="500" height="281" alt="ezgif-6ae57bc187c29872" src="https://github.com/user-attachments/assets/5578b29f-1756-45bf-ab64-3caf5588e36c" />
 
 ## 🚀 Follow Development
@@ -11,7 +23,7 @@ This project has gotten quite some attention, spreading over the news quite fast
 
 E-Mail Sign up: https://muxcard.com
 Instagram: instagram.com/muxcard
-X: instagram.com/muxcard
+X: x.com/muxcard
 
 Accounts are fresh and I will try my best to fill them with cool examples asap!
 
