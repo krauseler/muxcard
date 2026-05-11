@@ -1,4 +1,4 @@
-# credit-card-computer
+# Muxcard
 ## A fully working computer that is *literally* the size of a credit card.
 
 Built around an ESP32-C3, e-paper display and NFC.
@@ -7,7 +7,13 @@ Built around an ESP32-C3, e-paper display and NFC.
 
 ## 🚀 Follow Development
 
-I plan to launch this project soon so if you're interested, star this repo and watch for updates (:
+This project has gotten quite some attention, spreading over the news quite fast, so for all of you who are interested: I plan to launch this project soon, you can sign up to get notified at launch:
+
+E-Mail Sign up: https://muxcard.com
+Instagram: instagram.com/muxcard
+X: instagram.com/muxcard
+
+Accounts are fresh and I will try my best to fill them with cool examples asap!
 
 ## What Is This?
 
