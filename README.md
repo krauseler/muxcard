@@ -21,9 +21,9 @@ So many things could be possible with this, including:
 
 This project has gotten quite some attention, spreading over the news quite fast, so for all of you who are interested: I plan to launch this project soon, you can sign up to get notified at launch:
 
-E-Mail Sign up: https://muxcard.com
-Instagram: instagram.com/muxcard
-X: x.com/muxcard
+- E-Mail Sign up: https://muxcard.com
+- Instagram: instagram.com/muxcard
+- X: x.com/muxcard
 
 Accounts are fresh and I will try my best to fill them with cool examples asap!
 
@@ -116,7 +116,7 @@ I am testing the best and solid ways to implement some features, including:
 
 ## Hardware overview
 
-### MCU: ESP32-C3/S3 or nRF52/53
+### MCU: ESP32-C3 or nRF52
 
 The current prototype uses an ESP32-C3. It's not the most efficient one on the market, but it is beginner friendly, has good Arduino integration and provides many features including WiFi for occasional API requests. Power consumption is acceptable as the ESP is only active briefly to pull data and/or update the E-Paper. In sleep with RTC on, it consumes around 8uA effectively, which is quite good. I really considered using the nRF52832. Is has a much lower power consumption, sometimes consuming less power on active bluetooth than the ESP32 in idle. It also has a BGA variant which is just 0.4mm thick, perfect for protecting it within the 1mm limit. The ESP32-C3 has a nominal height of 0.85mm. With copper and the other layers, this pushes the limit of 1mm height, meaning almost no protection.
 
